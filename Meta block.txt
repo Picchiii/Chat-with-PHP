@@ -1,0 +1,9 @@
+pixel.facebook.com
+connect.facebook.net
+facebook-pixel.com
+ads.facebook.com
+facebookads.com
+analytics.facebook.com
+adservice.facebook.com
+business.facebook.com
+track.facebook.com
